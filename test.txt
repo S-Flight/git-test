@@ -6,3 +6,4 @@ git branch -v 查看分支
 git branch <name>
 git checkout <name>
 git merge <name>
+git pull <地址>
