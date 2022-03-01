@@ -8,3 +8,6 @@ git checkout <name>
 git merge <name>
 git pull <地址> by test-master
 git push <地址> git clon <地址> by test-master
+git练习
+git remote -v 查看别名
+git remote 别名 库地址
