@@ -7,3 +7,4 @@ git branch <name>
 git checkout <name>
 git merge <name>
 git pull <地址>
+git push <地址> git clon <地址> by test-master
