@@ -1,0 +1,8 @@
+git init git status git add <file>
+git commit -m <别名> <file>
+cat <file> git reflog git log
+git reset --hard <num>
+git branch -v 查看分支
+git branch <name>
+git checkout <name>
+git merge <name>
